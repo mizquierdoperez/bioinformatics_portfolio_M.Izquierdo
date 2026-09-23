@@ -13,11 +13,11 @@ Background: BSc Biotechnology · MSc Bioinformatics
 Languages: Python · R · Bash · SQL
 Interests: Bioinformatics · Computational Biology · Reproducible Workflows
 
-# PROYECTS:
+## PROYECTS:
 
-# 🧬 BRCA1/BRCA2 Variant Analysis
+### 🧬 BRCA1/BRCA2 Variant Analysis
 
-# Master's Thesis — Python · Ensembl VEP API · Data Analysis
+#### Master's Thesis — Python · Ensembl VEP API · Data Analysis
 
 Analysis of hereditary pathogenic variants in BRCA1 and BRCA2 associated with hereditary breast and ovarian cancer.
 
