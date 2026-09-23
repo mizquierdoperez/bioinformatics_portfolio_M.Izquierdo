@@ -31,7 +31,7 @@ The project combines a systematic literature review with computational analysis 
 
 #### Academic Proyecto - R · Supervised Learning · Unsupervised Learning
 
-Academic project developed as part of my MSc in Bioinformatics.
+Application of supervised and unsupervised machine learning algorithms to biological data, including data preprocessing, model training and evaluation.
 
 [View proyecto ->](https://github.com/mizquierdoperez/machinelearning-R_biodata)
 
