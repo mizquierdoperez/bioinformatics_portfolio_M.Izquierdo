@@ -10,7 +10,9 @@ This repository collects selected academic and personal projects developed durin
 
 
 Background: BSc Biotechnology · MSc Bioinformatics
+
 Languages: Python · R · Bash · SQL
+
 Interests: Bioinformatics · Computational Biology · Reproducible Workflows
 
 ## PROYECTS:
