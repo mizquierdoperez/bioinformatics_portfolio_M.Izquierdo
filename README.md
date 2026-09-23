@@ -33,7 +33,7 @@ The project combines a systematic literature review with computational analysis 
 
 Academic project developed as part of my MSc in Bioinformatics.
 
-[View proyecto ->](#)
+[View proyecto ->](https://github.com/mizquierdoperez/machinelearning-R_biodata)
 
 ## Skills demonstrated
 
